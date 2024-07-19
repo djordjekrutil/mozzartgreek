@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mozzart Greek</string>
+    <string name="izvlacenja">Izvlacenja</string>
+    <string name="uzivo_izvlacenje">Uzivo izvlacenje</string>
+    <string name="rezultati">Rezultati</string>
+    <string name="vreme_izvlacenja">Vreme izvlačenja</string>
+    <string name="preostalo_za_uplatu">Preostalo za uplatu</string>
+    <string name="zatvoreno">Zatvoreno</string>
+    <string name="vreme_izvlacenja_kolo">Vreme izvlačenja: %1$s \nKolo: %2$s</string>
+    <string name="isteklo_je_vreme_za_uplatu">Isteklo je vreme za uplatu!</string>
+    <string name="maksimalan_broj_brojeva">Slektovali ste maksimalan broj brojeva</string>
+    <string name="kolo_vreme_izvlacenja">Kolo: %1$s \nVreme izvlacenja: %2$s</string>
+    <string name="ukupno_selektovanih_brojeva">Ukupno selektovanih brojeva: %1$s</string>
+    <string name="random_brojevi">Random Brojevi</string>
+    <string name="vreme_za_uplatu">Vreme za uplatu: %1$s</string>
+    <string name="tip_igre">Tip igre: %1$s</string>
+    <string name="vrednost">Kvota: %1$s</string>
+</resources>
